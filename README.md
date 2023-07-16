@@ -1,1 +1,1 @@
-# movie-theatre
+A program to allow users to choose from a menu at a theatre. A queue of customers is accepted after which the user has the choice to sell tickets to the next customer, see who's in line, see a seat map or print receipts for the day.
